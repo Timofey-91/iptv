@@ -1,0 +1,495 @@
+#EXTM3U url-tvg="http://only4.tv/epg/epg.xml,https://gabbarit.page.link/epg,https://iptvx.one/epg/epg.xml.gz"
+
+
+#EXTINF:0 ,Первый канал +2
+#EXTGRP:Общее
+http://91.192.168.251:8001
+
+#EXTINF:0 tvg-rec="pervy-pl4",Первый канал HD +4
+#EXTGRP:Общее
+https://edge3.1internet.tv/dash-live3/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
+
+#EXTINF:-1 tvg-rec="pervy",Первый канал HD
+#EXTGRP:Общее
+https://edge3.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd
+
+#EXTINF:0  tvg-rec="rossia1-pl2",Россия 1 +2
+#EXTGRP:Общее
+https://player.smotrim.ru/iframe/stream/live_id/58511?e=1713415710&s=562
+
+#EXTINF:0 tvg-rec="rossia1-pl4",Россия 1 +4
+#EXTGRP:Общее
+https://player.smotrim.ru/iframe/stream/live_id/58510?e=1713415710&s=563
+
+#EXTINF:0 tvg-rec="rossia1-pl4",Россия 1 +7
+#EXTGRP:Общее
+https://player.smotrim.ru/iframe/stream/live_id/60265?e=1713415710&s=579
+
+#EXTINF:-1 tvg-rec="rossia1",Россия 1 HD
+#EXTGRP:Общее
+https://player.smotrim.ru/iframe/stream/live_id/2961?e=1713415710&s=509
+
+#EXTINF:-1 group-title="Общее" tvg-id="bobior", Бобëр
+http://195.211.27.150:8887/8172/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="russky-roman",Русский роман
+#EXTGRP:Общее
+http://195.211.27.150:8887/8010/index.m3u8?token=test
+
+#EXTINF:0 tvg-rec="tvcentr",ТВ Центр HD
+#EXTGRP:Общее
+http://195.211.27.150:8887/8006/index.m3u8?token=test
+
+#EXTINF:-1,ТВ Центр +2
+#EXTGRP:Общее
+http://5.165.31.113:81/udp/225.0.59.10:1234
+
+#EXTINF:-1,ТВ Центр +4
+#EXTGRP:Общее
+http://37.192.62.118:1234/udp/239.1.15.10:1234
+
+#EXTINF:-1,ТВ Центр +7
+#EXTGRP:Общее
+http://188.113.190.15/10/mono.m3u8
+
+#EXTINF:0 tvg-rec="ntv-pl2",НТВ +2
+#EXTGRP:Общее
+http://hls2.ttv2.space/mplay.php?id=ntv/playlist/ntv2
+
+#EXTINF:0 tvg-rec="ntv-pl4",НТВ +4
+#EXTGRP:Общее
+http://hls2.ttv2.space/mplay.php?id=ntv/playlist/ntv4
+
+#EXTINF:0 tvg-rec="ntv-pl7",НТВ +7
+#EXTGRP:Общее
+http://91.142.158.107:8092/play/4/index.m3u8
+
+#EXTINF:0 group-title="Общее" tvg-rec="ntv",НТВ HD
+http://flu.ttk.mx:9090/NTV_HD/index.m3u8?token=orh6o
+
+#EXTINF:0 group-title="Общее" tvg-id="ntv-xit", НТВ-Хит
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+
+#EXTINF:-1 group-title="Общее" tvg-id="mir",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1 group-title="Общее" tvg-id="mir-pl4",Мир (+4)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+
+#EXTINF:0 tvg-id="tnt-pl2",ТНТ (+2)
+#EXTGRP:Общее
+http://5.165.31.113:81/udp/225.0.59.19:1234
+
+#EXTINF:0 tvg-id="tnt-pl4",ТНТ (+4)
+#EXTGRP:Общее
+http://37.192.62.118:1234/udp/239.1.15.7:1234
+
+#EXTINF:0 tvg-id="tnt",ТНТ HD
+#EXTGRP:Общее
+http://195.211.27.150:8887/8311/index.m3u8?token=test
+
+#EXTINF:0 tvg-id="rentv-pl2", Рен ТВ +2
+#EXTGRP:Общее
+http://5.165.31.113:81/udp/225.0.59.11:1234
+
+#EXTINF:0 tvg-id="rentv-pl4",Рен ТВ +4
+#EXTGRP:Общее
+http://37.192.62.118:1234/udp/239.1.15.5:1234
+
+#EXTINF:-1  group-title="Общее" tvg-id="rentv,Рен ТВ HD
+http://195.211.27.150:8887/8312/index.m3u8?token=test
+
+
+#EXTINF:0 tvg-rec="0" tvg-id="mosfilm",Мосфильм. Золотая коллекция
+#EXTGRP:Общее
+http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
+
+#EXTINF:0 tvg-id="domkino",Дом Кино
+#EXTGRP:Общее
+http://195.211.27.150:8887/8136/index.m3u8?token=test
+
+#EXTINF:0 tvg-id="domkino-premium",Дом Кино Премиум HD
+#EXTGRP:Общее
+http://195.211.27.150:8887/8313/index.m3u8?token=test
+
+#EXTINF:0  tvg-id="kino-tv",КИНО ТВ HD
+#EXTGRP:Общее
+http://vod.tuva.ru/kinotv/index.m3u8
+
+#EXTINF:-1 group-title="Общее" tvg-id="piatnica",ПЯТНИЦА HD
+http://147.45.48.241:8090/RU_Pyatnitsa_HD/mpegts?token=rD_MOZUq-1
+
+#EXTINF:0 tvg-id="piatnica-pl2",Пятница +2
+#EXTGRP:Общее
+http://5.165.31.113:81/udp/225.0.59.16:1234
+
+#EXTINF:-1 group-title="Общее" tvg-id="russky-bestseller",Русский бестселлер
+http://92.242.110.52:9835/udp/238.1.7.29:1234
+
+#EXTINF:-1,Советские Мультфильмы
+#EXTGRP:Общее
+http://188.95.108.48:9990/udp/224.0.224.195:1234
+
+#EXTINF:-1 group-title="Общее" tvg-id="feniks-plus-kino",ФЕНИКС+КИНО 
+http://188.134.76.176:81/udp/235.10.10.62:1234
+
+#EXTINF:-1 tvg-id="viju-tv1000-novella",Viju TV100 Новелла
+#EXTGRP:Общее
+http://158.101.214.187:8080/channel/n60cfbb4/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
+
+
+#EXTINF:-1 group-title="Общее",TV1000 Русское кино
+http://195.211.27.150:8887/8050/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Общее" tvg-logo="https://i.ibb.co/MCPX1NK/1.png",Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 group-title="Общее" tvg-logo="https://i.ibb.co/MCPX1NK/1.png",Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="duo7lv",Duo 7 LV
+#EXTGRP:Общее
+http://rhsbjv7k.tvclub.xyz/iptv/GA6RDXQMF4SVHL/20079/index.m3u8
+
+#EXTINF:0 tvg-rec="7",Родное Кино
+#EXTGRP:Общее
+http://195.211.27.150:8887/8096/index.m3u8?token=test
+
+#EXTINF:0,Про Любовь HD
+#EXTGRP:Общее
+http://46.8.29.51:2020/channel/n5bf0fb1c/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+
+#EXTINF:-1,Душевное HD
+#EXTGRP:Общее
+http://195.211.27.150:8887/8296/index.m3u8?token=test
+
+#EXTINF:-1,Наше HD
+#EXTGRP:Общее
+http://195.211.27.150:8887/8059/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Общее" tvg-id="russky-detektiv", Русский детектив 
+http://91.142.158.107:8092/play/27/index.m3u8
+
+
+#EXTINF:-1,KinoJam 1
+#EXTGRP:Общее
+http://46.8.29.51:2020/channel/1469cc2d/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+
+#EXTINF:-1,Киносезон
+#EXTGRP:Общее
+http://158.101.194.132:8080/channel/7e5a40bb/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+
+#EXTINF:-1,Start Air
+#EXTGRP:Общее
+http://188.134.76.176:81/udp/235.10.10.139:1234
+
+#EXTINF:-1,Star Cinema Россия
+#EXTGRP:Общее
+http://188.134.76.176:81/udp/235.10.10.159:1234
+
+#EXTINF:-1 tvg-id="star-family",Star Family Россия
+#EXTGRP:Общее
+http://188.134.76.176:81/udp/235.10.10.251:1234
+
+#EXTINF:-1,Губерния (Самара)
+#EXTGRP:Общее
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+
+#EXTINF:-1,ННТВ
+#EXTGRP:Общее
+http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
+
+#EXTINF:-1,Bolt Россия
+#EXTGRP:Общее
+http://188.134.76.176:81/udp/235.10.10.107:1234
+
+#EXTINF:-1,Телекафе
+#EXTGRP:Общее
+http://188.113.190.15/117/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,НТС
+#EXTGRP:Общее
+https://air.nts-tv.ru/hd.m3u8
+
+#EXTINF:0,СТС +2
+#EXTGRP:Общее
+http://5.165.31.113:81/udp/225.0.59.13:1234
+
+#EXTINF:0,СТС +4
+#EXTGRP:Общее
+http://37.192.62.118:1234/udp/239.1.10.13:1234
+
+#EXTINF:0,СТС HD
+#EXTGRP:Общее
+http://hls2.ttv2.space/mplay.php?id=ctc/playlist/ctc
+
+#EXTINF:-1,СТС Love
+#EXTGRP:Общее
+http://streaming.tv-teleport.ru/STS_Love/index.m3u8
+
+#EXTINF:0,Домашний +2
+#EXTGRP:Общее
+http://5.165.31.113:81/udp/225.0.59.14:1234
+
+#EXTINF:0,Домашний +4
+#EXTGRP:Общее
+http://37.192.62.118:1234/udp/239.1.10.5:1234
+
+#EXTINF:-1 group-title="Общее",Домашний HD
+https://player.smotrim.ru/iframe/stream/live_id/64556?e=1713415710&s=929
+
+#EXTINF:0,Звезда (+2)
+#EXTGRP:Общее
+http://5.165.31.113:81/udp/225.0.59.17:1234
+
+#EXTINF:0 audio-track="rus",Звезда (+4)
+#EXTGRP:Общее
+http://vod.tuva.ru:8080/zvezda/index.m3u8
+
+#EXTINF:-1,Звезда
+#EXTGRP:Общее
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="Общее", Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
+
+#EXTINF:0 tvg-rec="0",MM Воронины HD
+#EXTGRP:Общее
+http://rhsbjv7k.tvclub.xyz/iptv/GA6RDXQMF4SVHL/13031/index.m3u8
+
+#EXTINF:0 tvg-rec="0",CineMan ПёС
+#EXTGRP:Общее
+http://rhsbjv7k.tvclub.xyz/iptv/GA6RDXQMF4SVHL/16064/index.m3u8
+
+#EXTINF:0,Победа
+#EXTGRP:Общее
+https://streaming102.goodstream.cyou/live/43.m3u8
+
+#EXTINF:-1,Соловьев Live
+#EXTGRP:Общее
+https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
+
+#EXTINF:-1 group-title="Общее",МИР СЕРИАЛА HD
+http://91.205.199.3:80/mirseriala/index.m3u8
+
+#EXTINF:0,Русская Комедия
+#EXTGRP:Общее
+http://91.142.158.107:8092/play/30/index.m3u8
+
+#EXTINF:-1 group-title="Общее",ТНТ4 HD
+http://195.211.27.149:8887/8058/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Общее",Кинохит
+http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Общее",CINEMA HD
+http://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+
+#EXTINF:-1 group-title="Общее",Мульт
+http://195.211.27.150:8887/8157/index.m3u8?token=test
+
+#EXTINF:-1,Мультиландия
+#EXTGRP:Общее
+http://195.211.27.150:8887/8056/index.m3u8?token=test
+
+#EXTINF:-, group-title="Общее",Start World 
+http://188.134.76.176:81/udp/235.10.10.30:1234
+
+#EXTINF:-1 group-title="Общее",НАШЕ НОВОЕ КИНО
+http://92.242.110.52:9835/udp/238.1.6.21:1234
+
+#EXTINF:20,Fox
+#EXTGRP:Общее
+http://45.159.74.14:80/Fox/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Общее",Fox Life HD
+http://141.95.55.143/CH159/index.m3u8
+
+#EXTINF:-1 group-title="Общее",ТВ3
+http://31.148.6.9:10015/index.m3u8
+
+#EXTINF:-1 group-title="Общее",Viju+ MEGAHIT
+http://141.95.55.143/CH313/index.m3u8
+
+#EXTINF:-1 group-title="Общее",Viju+ Premiere
+http://141.95.55.143/CH315/index.m3u8
+
+#EXTINF:-1 group-title="Общее",Viju+ Serial HD
+http://91.205.199.3/vipserialhd/index.m3u8
+
+#EXTINF:-1 group-title="Общее",Viju TV1000 Русское
+http://194.143.148.28:8080/TV1000RuKino/mpegts
+
+#EXTINF:-1 group-title="Общее",Киносерия
+http://strm.yandex.ru/kal/kinoseria_belarus/kinoseria_belarus0.m3u8
+
+#EXTINF:-1 group-title="Общее",КИНОМИКС 
+http://195.211.27.149:8887/8040/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Общее",Киносемья HD
+http://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
+
+#EXTINF:-1 group-title="Общее",КИНОМАН HD
+http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Общее",Кинопремьера HD
+http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Че!
+#EXTGRP:Общее
+http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
+
+#EXTINF:-1 group-title="Общее", Русский иллюзион
+http://188.95.108.48:9990/udp/224.0.224.77:1234
+
+#EXTINF:-1 group-title="Общее", Россия К
+https://player.smotrim.ru/iframe/stream/live_id/19201?e=1709172000&s=509
+
+#EXTINF:-1 group-title="Общее", Viju TV1000 HD
+http://flu.ttk.mx:9090/TV1000/index.m3u8?token=orh6o
+
+#EXTINF:0,Остросюжетное HD
+#EXTGRP:Общее
+http://31.131.136.4:8001/play/e012
+
+#EXTINF:0,Премиальное HD
+#EXTGRP:Общее
+http://31.131.136.4:8001/play/e011
+
+#EXTINF:0,Хит HD
+#EXTGRP:Общее
+http://46.8.29.51:2020/channel/n16e794f8/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+
+#EXTINF:0,Мужской
+#EXTGRP:Общее
+http://195.26.83.96:7007/play/11/index.m3u8
+
+#EXTINF:-1 group-title="Общее", Discovery HD 
+http://45.159.74.14:80/DiscoveryChannel/tracks-v1a2/mono.m3u8
+
+#EXTINF:0,Блокбастер HD
+#EXTGRP:Общее
+http://46.8.29.51:2020/channel/4e8098b0/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+
+
+#EXTINF:-1 tvg-id="nash-kinopokaz" group-title="Общее",Наш Кинопоказ
+http://46.8.29.51:2020/channel/5c22569f/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+
+#EXTINF:0,Наше Мужское HD
+#EXTGRP:Общее
+http://46.8.29.51:2020/channel/n383d9e5e/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+
+#EXTINF:-1,Страшное HD
+#EXTGRP:Общее
+http://31.131.136.4:8001/play/e00y
+
+#EXTINF:-1,Шокирующее HD
+#EXTGRP:Общее
+http://31.131.136.4:8001/play/e013
+
+#EXTINF:-1 tvg-id="360-podmoskovie", 360° HD
+#EXTGRP:Общее
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
+
+#EXTINF:0,Оружие
+#EXTGRP:Общее
+http://37.193.161.13:4022/udp/239.1.2.7:1234
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5441.png" group-title="Общее",Твое ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+
+#EXTINF:-1 group-title="Общее", Наука 2.0 HD
+http://stream01.vnet.am/Nauka/mono.m3u8
+
+#EXTINF:-1,Карусель
+#EXTGRP:Общее
+http://195.211.27.150:8887/8057/index.m3u8?token=test
+
+#EXTINF:-1,2x2
+#EXTGRP:Общее
+http://37.192.129.157:34040/udp/239.1.2.1:1234
+
+
+#EXTINF:0,Nickelodeon HD
+#EXTGRP:Общее
+http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
+
+#EXTINF:0 tvg-rec="3",Мульт HD
+#EXTGRP:Общее
+http://stream01.vnet.am/Mult/mono.m3u8
+
+#EXTINF:0 tvg-rec="3",Солнце
+#EXTGRP:Общее
+http://tv.mediacdn.ru/live/disney/playlist_3000k.m3u8
+
+#EXTINF:-1 tvg-id="liova" group-title="Общее",Лёва HD
+http://195.211.27.150:8887/8375/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="o_" group-title="Общее",О!
+http://176.197.188.55:81/udp/239.255.42.130:1234
+
+#EXTINF:0 tvg-rec="0",Ля-минор ТВ
+#EXTGRP:Общее
+http://195.211.27.150:8887/8101/index.m3u8?token=test
+
+#EXTINF:0 tvg-rec="0",МУЗ-ТВ HD
+#EXTGRP:Общее
+http://95.165.139.10:4022/udp/239.255.3.56:5500
+
+#EXTINF:0 tvg-rec="0",RU TV HD
+#EXTGRP:Общее
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+
+#EXTINF:-1 tvg-id="russian-musicbox" group-title="Общее", Russian MusicBox
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+
+#EXTINF:-1 tvg-id="musicbox" group-title="Общее", MusicBox Gold
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+
+#EXTINF:0,Москва 24
+#EXTGRP:Общее
+https://player.smotrim.ru/iframe/stream/live_id/1661?e=1709172000&s=509
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1683.png" group-title="Общее",Россия 24
+https://player.smotrim.ru/iframe/stream/live_id/21?e=1709172000&s=509
+
+#EXTINF:-1 group-title="Общее",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 group-title="Общее",Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+
+#EXTINF:0,Eurosport 1 HD
+#EXTGRP:Общее
+http://135.181.115.81:8000/play/a01e/index.m3u8?token=livetv
+
+#EXTINF:-1 group-title="Общее", Eurosport 2 HD 
+http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="match-tv" group-title="Общее", Матч! HD
+http://188.134.76.176:81/udp/235.10.10.110:1234
+
+#EXTINF:-1 tvg-id="match-nash-sport" group-title="Общее",Матч! Страна HD
+http://188.134.76.176:81/udp/235.10.10.63:1234
+
+#EXTINF:-1 tvg-id="match-boets" group-title="Общее",МАТЧ! БОЕЦ HD
+http://188.134.76.176:81/udp/235.10.10.142:1234
+
+#EXTINF:-1 tvg-id="match-arena" group-title="Общее",МАТЧ! АРЕНА HD
+http://188.134.76.176:81/udp/235.10.10.172:1234
+
+#EXTINF:-1 tvg-id="match-igra" group-title="Общее",МАТЧ! ИГРА HD
+http://188.134.76.176:81/udp/235.10.10.58:1234
+
+#EXTINF:-1 tvg-id="viasat-sport" group-title="Общее",Viju+ Sport HD
+http://195.211.27.150:8887/8015/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="kxl" group-title="Общее",КХЛ HD
+http://195.211.27.149:8887/8025/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="kxl-hd" group-title="Общее",KHL Prime HD
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
+
+#EXTINF:-1 tvg-id="match-premier" group-title="Общее",Матч Премьер HD
+http://188.134.76.176:81/udp/235.10.10.182:1234
