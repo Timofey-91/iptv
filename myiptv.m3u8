@@ -225,7 +225,7 @@ http://hls2.ttv2.space/mplay.php?id=ctc/playlist/ctc
 
 #EXTINF:-1,СТС Love
 #EXTGRP:Общее
-http://streaming.tv-teleport.ru/STS_Love/index.m3u8
+http://195.211.27.150:8887/8174/index.m3u8?token=test
 
 #EXTINF:0,Домашний +2
 #EXTGRP:Общее
@@ -236,7 +236,7 @@ http://5.165.31.113:81/udp/225.0.59.14:1234
 http://5.129.27.8:1234/udp/239.1.10.5:1234
 
 #EXTINF:-1 group-title="Общее",Домашний HD
-https://player.smotrim.ru/iframe/stream/live_id/64556?e=1713415710&s=929
+http://195.211.27.150:8887/8062/index.m3u8?token=test
 
 #EXTINF:0,Звезда (+2)
 #EXTGRP:Общее
