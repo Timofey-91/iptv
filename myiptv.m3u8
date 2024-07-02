@@ -106,7 +106,7 @@ http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 
 #EXTINF:0 tvg-id="domkino",Дом Кино
 #EXTGRP:Общее
-http://86.57.178.105:7005/play/a010
+http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=orh6o
 
 #EXTINF:0 tvg-id="domkino-premium",Дом Кино Премиум HD
 #EXTGRP:Общее
@@ -124,14 +124,14 @@ http://147.45.48.241:8090/RU_Pyatnitsa_HD/mpegts?token=rD_MOZUq-1
 http://5.165.31.113:81/udp/225.0.59.16:1234
 
 #EXTINF:-1 group-title="Общее" tvg-id="russky-bestseller",Русский бестселлер
-http://92.242.110.52:9835/udp/238.1.7.29:1234
+http://188.113.190.15/100/video.m3u8
 
 #EXTINF:-1,Советские Мультфильмы
 #EXTGRP:Общее
-http://158.101.194.132:8080/channel/n11fc9032/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+https://mhd116.iptv2022.com/p/PgfP4Ed2bKyl5Tj_vKlYjg,1719954009/streaming/rusmult/324/1/index.m3u8
 
 #EXTINF:-1 group-title="Общее" tvg-id="feniks-plus-kino",ФЕНИКС+КИНО 
-http://188.134.76.176:81/udp/235.10.10.62:1234
+http://188.113.190.15/24/video.m3u8
 
 #EXTINF:-1 tvg-id="viju-tv1000-novella",Viju TV100 Новелла
 #EXTGRP:Общее
