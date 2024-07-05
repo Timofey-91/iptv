@@ -30,7 +30,7 @@ https://player.smotrim.ru/iframe/stream/live_id/60265?e=1713415710&s=579
 https://player.smotrim.ru/iframe/stream/live_id/2961?e=1713415710&s=509
 
 #EXTINF:-1 group-title="Общее" tvg-id="bobior", Бобëр
-http://195.211.27.146:8887/8172/index.m3u8?token=test
+http://195.211.27.150:8887/8172/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="russky-roman",Русский роман
 #EXTGRP:Общее
@@ -43,7 +43,7 @@ http://hls2.ttv2.space/mplay.php?id=tvc/playlist/tvc
 
 #EXTINF:-1,ТВ Центр +2
 #EXTGRP:Общее
-http://92.248.244.156:81/udp/225.0.59.10:1234
+http://92.248.191.239:81/udp/225.0.59.10:1234
 
 #EXTINF:-1,ТВ Центр +4
 #EXTGRP:Общее
@@ -79,7 +79,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 
 #EXTINF:0 tvg-id="tnt-pl2",ТНТ (+2)
 #EXTGRP:Общее
-http://92.248.244.156:81/udp/225.0.59.19:1234
+http://92.248.191.239:81/udp/225.0.59.19:1234
 
 #EXTINF:0 tvg-id="tnt-pl4",ТНТ (+4)
 #EXTGRP:Общее
@@ -91,7 +91,7 @@ http://195.211.27.150:8887/8311/index.m3u8?token=test
 
 #EXTINF:0 tvg-id="rentv-pl2", Рен ТВ +2
 #EXTGRP:Общее
-http://92.248.244.156:81/udp/225.0.59.11:1234
+http://92.248.191.239:81/udp/225.0.59.11:1234
 
 #EXTINF:0 tvg-id="rentv-pl4",Рен ТВ +4
 #EXTGRP:Общее
@@ -122,14 +122,14 @@ http://147.45.48.241:8090/RU_Pyatnitsa_HD/mpegts?token=rD_MOZUq-1
 
 #EXTINF:0 tvg-id="piatnica-pl2",Пятница +2
 #EXTGRP:Общее
-http://92.248.244.156:81/udp/225.0.59.16:1234
+http://92.248.191.239:81/udp/225.0.59.16:1234
 
 #EXTINF:-1 group-title="Общее" tvg-id="russky-bestseller",Русский бестселлер
 http://188.113.190.15/100/video.m3u8
 
 #EXTINF:-1,Советские Мультфильмы
 #EXTGRP:Общее
-https://mhd116.iptv2022.com/p/PgfP4Ed2bKyl5Tj_vKlYjg,1719954009/streaming/rusmult/324/1/index.m3u8
+http://188.95.108.48:9990/udp/224.0.224.195:1234
 
 #EXTINF:-1 group-title="Общее" tvg-id="feniks-plus-kino",ФЕНИКС+КИНО 
 http://188.113.190.15/24/video.m3u8
@@ -214,7 +214,7 @@ https://air.nts-tv.ru/hd.m3u8
 
 #EXTINF:0,СТС +2
 #EXTGRP:Общее
-http://92.248.244.156:81/udp/225.0.59.13:1234
+http://92.248.191.239:81/udp/225.0.59.13:1234
 
 #EXTINF:0,СТС +4
 #EXTGRP:Общее
@@ -230,7 +230,7 @@ http://195.211.27.150:8887/8174/index.m3u8?token=test
 
 #EXTINF:0,Домашний +2
 #EXTGRP:Общее
-http://92.248.244.156:81/udp/225.0.59.14:1234
+http://92.248.191.239:81/udp/225.0.59.14:1234
 
 #EXTINF:0,Домашний +4
 #EXTGRP:Общее
@@ -241,7 +241,7 @@ http://195.211.27.150:8887/8062/index.m3u8?token=test
 
 #EXTINF:0,Звезда (+2)
 #EXTGRP:Общее
-http://5.165.31.113:81/udp/225.0.59.17:1234
+http://92.248.191.239:81/udp/225.0.59.17:1234
 
 #EXTINF:0 audio-track="rus",Звезда (+4)
 #EXTGRP:Общее
