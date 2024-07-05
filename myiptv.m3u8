@@ -39,7 +39,7 @@ http://195.211.27.146:8887/8010/index.m3u8?token=test
 
 #EXTINF:0 tvg-rec="tvcentr",ТВ Центр HD
 #EXTGRP:Общее
-http://195.211.27.146:8887/8006/index.m3u8?token=test
+http://hls2.ttv2.space/mplay.php?id=tvc/playlist/tvc
 
 #EXTINF:-1,ТВ Центр +2
 #EXTGRP:Общее
