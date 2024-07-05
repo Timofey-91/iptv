@@ -34,11 +34,11 @@ http://195.211.27.150:8887/8172/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="russky-roman",Русский роман
 #EXTGRP:Общее
-http://195.211.27.150:8887/8010/index.m3u8?token=test
+http://195.211.27.149:8887/8010/index.m3u8?token=test
 
 #EXTINF:0 tvg-rec="tvcentr",ТВ Центр HD
 #EXTGRP:Общее
-http://195.211.27.150:8887/8006/index.m3u8?token=test
+http://195.211.27.149:8887/8006/index.m3u8?token=test
 
 #EXTINF:-1,ТВ Центр +2
 #EXTGRP:Общее
