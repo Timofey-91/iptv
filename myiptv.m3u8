@@ -30,16 +30,16 @@ https://player.smotrim.ru/iframe/stream/live_id/60265?e=1713415710&s=579
 https://player.smotrim.ru/iframe/stream/live_id/2961?e=1713415710&s=509
 
 #EXTINF:-1 group-title="Общее" tvg-id="bobior", Бобëр
-http://195.211.27.150:8887/8172/index.m3u8?token=test
+http://195.211.27.146:8887/8172/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="russky-roman",Русский роман
 #EXTGRP:Общее
-http://45.93.46.29:8887/8010/index.m3u8?token=test
+http://195.211.27.146:8887/8010/index.m3u8?token=test
 
 
 #EXTINF:0 tvg-rec="tvcentr",ТВ Центр HD
 #EXTGRP:Общее
-http://45.93.46.29:8887/8006/index.m3u8?token=test
+http://195.211.27.146:8887/8006/index.m3u8?token=test
 
 #EXTINF:-1,ТВ Центр +2
 #EXTGRP:Общее
