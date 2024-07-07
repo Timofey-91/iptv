@@ -43,7 +43,7 @@ http://hls2.ttv2.space/mplay.php?id=tvc/playlist/tvc
 
 #EXTINF:-1,ТВ Центр +2
 #EXTGRP:Общее
-http://92.248.191.239:81/udp/225.0.59.10:1234
+http://95.83.111.209:4022/udp/239.255.40.28:5500
 
 #EXTINF:-1,ТВ Центр +4
 #EXTGRP:Общее
