@@ -19,15 +19,15 @@ https://player.smotrim.ru/iframe/stream/live_id/58511?e=1713415710&s=562
 
 #EXTINF:0 tvg-rec="rossia1-pl4",Россия 1 +4
 #EXTGRP:Общее
-https://player.smotrim.ru/iframe/stream/live_id/58510?e=1713415710&s=563
+https://player.smotrim.ru/iframe/stream/live_id/58510?e=1720355784&s=563
 
 #EXTINF:0 tvg-rec="rossia1-pl4",Россия 1 +7
 #EXTGRP:Общее
-https://player.smotrim.ru/iframe/stream/live_id/60265?e=1713415710&s=579
+https://player.smotrim.ru/iframe/stream/live_id/60265?e=1720355784&s=579
 
 #EXTINF:-1 tvg-rec="rossia1",Россия 1 HD
 #EXTGRP:Общее
-https://player.smotrim.ru/iframe/stream/live_id/2961?e=1713415710&s=509
+https://player.smotrim.ru/iframe/stream/live_id/2961?e=1720355784&s=509
 
 #EXTINF:-1 group-title="Общее" tvg-id="bobior", Бобëр
 http://195.211.27.150:8887/8172/index.m3u8?token=test
