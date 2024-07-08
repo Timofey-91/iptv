@@ -36,7 +36,7 @@ http://195.211.27.150:8887/8172/index.m3u8?token=test
 #EXTGRP:Общее
 http://195.211.27.146:8887/8010/index.m3u8?token=test
 
-#EXTINF:-1,Своё ТВ Ставрополь
+#EXTINF:-1 tvg-id="svoyo-tv-stavropol",Своё ТВ Ставрополь
 #EXTGRP:Общее
 http://95.83.111.209:4022/udp/239.255.40.113:5500
 
