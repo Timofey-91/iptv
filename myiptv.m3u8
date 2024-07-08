@@ -137,6 +137,10 @@ http://188.95.108.48:9990/udp/224.0.224.195:1234
 #EXTINF:-1 group-title="Общее" tvg-id="feniks-plus-kino",ФЕНИКС+КИНО 
 http://188.113.190.15/24/video.m3u8
 
+#EXTINF:-1,KION Хит
+#EXTGRP:Общее
+http://95.83.111.209:4022/udp/239.255.40.184:5500
+
 #EXTINF:-1 tvg-id="viju-tv1000-novella",Viju TV100 Новелла
 #EXTGRP:Общее
 http://158.101.214.187:8080/channel/n60cfbb4/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
